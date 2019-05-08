@@ -3,7 +3,7 @@
 ## Overview
 This is an analysis of marketing campaigns from a mobile app company where I calculate key marketing metrics like cost per acquired customer (CAC) and Return on Investment (ROI).
 
-SQL was used aggregate the data and calculate the different metrics and Python/Pandas were used to create visualizations, found in the `visualizations.ipynb` jupyter notebook. 
+SQL was used aggregate the data and calculate the different metrics. Python/Pandas were used to create the visualizations which found in the `visualizations.ipynb` jupyter notebook. 
 
 ## Data
 
